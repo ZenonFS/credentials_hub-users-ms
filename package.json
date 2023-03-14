@@ -1,7 +1,7 @@
 {
   "name": "credentials_hub-users-ms",
   "title": "Credentials Hub App - Users & Auth - MS",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Microservice of Users and Auth for Credentials Hub App",
   "author": "ZenonFS",
   "license": "MIT",
